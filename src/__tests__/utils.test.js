@@ -11,3 +11,4 @@ describe("pointsForWord", () => {
     expect(points).toBe(7);
   });
 });
+
